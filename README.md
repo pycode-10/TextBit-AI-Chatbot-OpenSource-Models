@@ -49,4 +49,4 @@ The aim of the project is to create an advanced AI-powered chatbot that enables 
 ## Usage
 Run the chatbot locally:
 ```bash
-streamlit run app.py
+streamlit run app2.py
